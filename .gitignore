@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+data/*
+!data/README.md
+results/*
+!results/.gitkeep
+logs/*
+!logs/.gitkeep
+paper/figures/*
+!paper/figures/.gitkeep
+paper/sections/*
+!paper/sections/.gitkeep

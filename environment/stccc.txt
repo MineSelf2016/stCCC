@@ -1,0 +1,17 @@
+torch==2.8.0
+numpy==1.26.4
+scipy==1.13.1
+pandas==2.2.3
+scikit-learn==1.6.1
+anndata==0.10.8
+scanpy==1.10.3
+h5py==3.12.1
+scvi-tools==1.1.6.post2
+lightning==2.5.1
+squidpy==1.6.1
+statsmodels==0.14.4
+matplotlib==3.9.2
+umap-learn==0.5.7
+pyarrow==21.0.0
+scikit-misc==0.3.1
+POT==0.9.6.post1

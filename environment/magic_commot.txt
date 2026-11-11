@@ -1,0 +1,11 @@
+numpy==1.26.4
+scipy==1.15.3
+pandas==2.0.3
+scikit-learn==1.7.2
+anndata==0.10.8
+scanpy==1.10.3
+magic-impute==3.0.0
+graphtools==2.1.0
+commot==0.0.3
+POT==0.9.7.post1
+matplotlib==3.10.9

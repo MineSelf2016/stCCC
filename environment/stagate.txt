@@ -1,0 +1,7 @@
+# STAGATE_pyG from https://github.com/QIFEIDKN/STAGATE_pyG
+torch==2.2.0
+torch-geometric==2.6.1
+numpy==1.26.4
+scanpy==1.10.3
+anndata==0.10.9
+scikit-learn==1.6.1
