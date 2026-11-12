@@ -1,7 +1,7 @@
 # stCCC
 
 Code for *Depth-confounded spatial communication scores and how to recover reproducible ligand–receptor signal with
-stCCC* (Qi, Song, Zou and Wei, 2026).
+stCCC* (Qi and Wei, 2026).
 
 Spot-level spatial communication scores built from sparse ligand and receptor counts largely measure sequencing
 depth, and regressing depth out removes most of their reproducibility. This repository contains
